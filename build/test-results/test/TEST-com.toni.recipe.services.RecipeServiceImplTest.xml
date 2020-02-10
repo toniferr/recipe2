@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.toni.recipe.services.RecipeServiceImplTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-02-10T17:53:32" hostname="equipo-toni" time="0.115">
+  <properties/>
+  <testcase name="getRecipeByIdTestNotFound" classname="com.toni.recipe.services.RecipeServiceImplTest" time="0.084"/>
+  <testcase name="testDeleteById" classname="com.toni.recipe.services.RecipeServiceImplTest" time="0.002"/>
+  <testcase name="getRecipesTest" classname="com.toni.recipe.services.RecipeServiceImplTest" time="0.007"/>
+  <testcase name="getRecipeByIdTest" classname="com.toni.recipe.services.RecipeServiceImplTest" time="0.006"/>
+  <testcase name="getRecipeCommandByIdTest" classname="com.toni.recipe.services.RecipeServiceImplTest" time="0.008"/>
+  <system-out><![CDATA[18:53:32.689 [Test worker] DEBUG com.toni.recipe.services.RecipeServiceImpl - I'm in the service
+18:53:32.692 [Test worker] DEBUG com.toni.recipe.services.RecipeServiceImpl - I'm in the service
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.toni.recipe.converters.UnitOfMeasureCommandToUnitOfMeasureTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-02-10T17:53:42" hostname="equipo-toni" time="0.001">
+  <properties/>
+  <testcase name="testEmptyObject" classname="com.toni.recipe.converters.UnitOfMeasureCommandToUnitOfMeasureTest" time="0.0"/>
+  <testcase name="convert" classname="com.toni.recipe.converters.UnitOfMeasureCommandToUnitOfMeasureTest" time="0.0"/>
+  <testcase name="testNullParamter" classname="com.toni.recipe.converters.UnitOfMeasureCommandToUnitOfMeasureTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
