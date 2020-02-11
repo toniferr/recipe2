@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.toni.recipe.services.ImageServiceImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-10T17:53:32" hostname="equipo-toni" time="0.168">
+<testsuite name="com.toni.recipe.services.ImageServiceImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-02-11T18:05:20" hostname="equipo-toni" time="0.291">
   <properties/>
-  <testcase name="saveImageFile" classname="com.toni.recipe.services.ImageServiceImplTest" time="0.168"/>
+  <testcase name="saveImageFile" classname="com.toni.recipe.services.ImageServiceImplTest" time="0.291"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
